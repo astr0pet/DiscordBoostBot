@@ -1,0 +1,28 @@
+{
+  "proxyless": true,
+  "timeout": 60,
+  "capService": "capsolver",
+  "capKey": "",
+  "inviteFieldName": "Invite",
+  "live_stock_msg_channelID": "",
+  "port" : "8080",
+  "discordSettings": {
+    "token": "",
+    "botStatus": "watching",
+    "botActivity": "@piterrgg if want to ask something",
+    "supportServer": "",
+    "guildID": "",
+    "owners": ["", ""],
+    "embedColor": "800080",
+    "logsChannel": ""
+  },
+  "customPersonalization": {
+    "onliner": true,
+    "displayName" : "",
+    "customBio": "@piterrgg if want to ask something",
+    "customPfp": ["pfp.png"],
+    "customBanner": ["banner.png"],
+    "status": ["@piterrgg if want to ask something"],
+    "statusEmoji": ["💯"]
+  }
+}
